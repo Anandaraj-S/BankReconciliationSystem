@@ -1,0 +1,9 @@
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\bin\Bank Reconciliation.dll
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\bin\Bank Reconciliation.pdb
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\bin\Bank Reconciliation.xml
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\bin\Bank Reconciliation.tlb
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\obj\Debug\Bank_Reconciliation.Resources.resources
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\obj\Debug\Bank Reconciliation.vbproj.GenerateResource.Cache
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\obj\Debug\Bank Reconciliation.dll
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\obj\Debug\Bank Reconciliation.xml
+D:\Latest source details\Bank Reconciliation\Bank Reconciliation\obj\Debug\Bank Reconciliation.pdb

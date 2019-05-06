@@ -1,0 +1,38 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="SiteLong.master.vb" Inherits="Bank_Reconciliation.SiteLong" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header">
+            <div class="loginDisplay">
+                <img alt="Bank Reconciliation Header" longdesc="header" 
+                    src="Images/Bank_Reconciliation_header.png" /></div>
+            <div class="clear hideSkiplink" style="height:15px">
+            </div>
+        </div>
+        <div class="mainlong">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div align="center">
+        <asp:Label runat="server" ID="lblMasterPgCopyright" 
+                Text ="Bank Reconciliation | Copyright © 2017 by Conifer Health Solutions - LIVE Version" 
+                BackColor ="White" ForeColor="Black" Font-Names="Arial" Font-Size="Small" 
+                Font-Bold="True" />
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

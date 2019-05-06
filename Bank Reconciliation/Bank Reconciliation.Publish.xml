@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="\\TP-IIS\Web\BankReconciliation\" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Global.asax" publishTime="04/17/2015 09:40:02" />
+    <file relUrl="Site.Master" publishTime="02/02/2018 04:45:11" />
+    <file relUrl="Styles/Site.css" publishTime="06/28/2017 17:33:09" />
+    <file relUrl="ApplicationManagement.aspx" publishTime="03/24/2016 17:15:26" />
+    <file relUrl="About.aspx" publishTime="04/17/2015 09:40:02" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="07/07/2015 13:52:03" />
+    <file relUrl="bin/Bank Reconciliation.xml" publishTime="02/02/2018 06:20:28" />
+    <file relUrl="Variance.aspx" publishTime="07/20/2017 14:54:02" />
+    <file relUrl="PostedDataDeletion.aspx" publishTime="07/20/2017 11:04:18" />
+    <file relUrl="BankMatched.aspx" publishTime="04/12/2017 11:07:12" />
+    <file relUrl="Account/Web.config" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="NoAccess.aspx" publishTime="04/12/2017 11:09:38" />
+    <file relUrl="Account/Login.aspx" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="PostedDataCorrection.aspx" publishTime="07/20/2017 11:20:19" />
+    <file relUrl="Images/calender.png" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="07/07/2015 13:52:03" />
+    <file relUrl="DataManagement.aspx" publishTime="02/02/2018 06:11:42" />
+    <file relUrl="bin/Bank Reconciliation.dll" publishTime="02/02/2018 06:20:28" />
+    <file relUrl="Default.aspx" publishTime="04/13/2017 18:41:05" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="Maintenance.aspx" publishTime="06/29/2017 10:42:41" />
+    <file relUrl="bin/Bank Reconciliation.pdb" publishTime="02/02/2018 06:20:28" />
+    <file relUrl="Work Queue.aspx" publishTime="06/29/2017 15:27:43" />
+    <file relUrl="Account/Register.aspx" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="Images/ConiferC.ico" publishTime="03/25/2016 16:29:52" />
+    <file relUrl="SiteLong.Master" publishTime="02/02/2018 04:45:02" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="Web.config" publishTime="02/02/2018 06:20:43" />
+    <file relUrl="Images/No_Access.png" publishTime="07/07/2015 13:52:03" />
+    <file relUrl="Images/Bank_Reconciliation_header.png" publishTime="07/07/2015 13:52:02" />
+    <file relUrl="WorkQueueOther.aspx" publishTime="04/17/2017 16:08:35" />
+    <file relUrl="BankDataInsert.aspx" publishTime="04/12/2017 11:06:53" />
+    <file relUrl="UserAdmin.aspx" publishTime="03/28/2017 10:36:54" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="07/07/2015 13:52:04" />
+  </publishProfile>
+</publishData>

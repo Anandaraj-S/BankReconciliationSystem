@@ -1,0 +1,75 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.master.vb" Inherits="Bank_Reconciliation.Site" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server">
+<link rel="SHORTCUT ICON" href="Images/ConiferC.ico" />
+    <title>Bank Reconciliation</title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.4.0.min.js" integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg=" crossorigin="anonymous"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous" />
+    <script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.7.1/css/bootstrap-datepicker.min.css" rel="stylesheet"/>
+    <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.js"></script>
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body class="fluid-container">
+    <form runat="server">
+    <script type="text/javascript">
+        function UnderMaintenance(timeout) {
+            var seconds = timeout / 1000;
+            document.getElementsByName("spansecondsIdle").innerHTML = seconds;
+            setInterval(function () {
+                seconds--;
+                document.getElementById("spansecondsIdle").innerHTML = seconds;
+            }, 1000);
+            setTimeout(function () {
+                //Show Popup before 120 seconds of timeout.
+                document.getElementById("divPanel").style.display = 'inherit';
+            }, timeout - 120 * 1000);
+
+            setTimeout(function () {
+                window.location = "Maintenance.aspx";
+            }, timeout);
+        };
+    </script>
+    <div class="page">
+        <div class="header">
+            <div class="loginDisplay">
+                <img alt="Bank Reconciliation Header" longdesc="header" 
+                    src="Images/Bank_Reconciliation_header.png" /></div>
+            <div class="clear hideSkiplink"style="height:15px">
+            </div>
+        </div>
+        <div class="main">
+        <div id="divPanel"  style="margin-left: auto; margin-right: auto; text-align: Right;display :none;">
+         <asp:Panel ID="PlMaintenance" runat="server" >
+   <h1 >
+               
+        <asp:Label ID="lblLoadName" runat="server" 
+            style="color:red;" Text=" " Font-Bold ="True"></asp:Label>&nbsp;&nbsp;
+        <span id="spanLoad" runat ="server"  style="color:red;font-weight:bold;"> will start with in :</span>
+        <span id="spansecondsIdle" runat ="server" style="color:red;font-weight:bold;"> </span>
+         <span id="spanSave" runat ="server"  style="color:red;font-weight:bold;">seconds.Please save  works</span>
+        
+        </h1>
+        </asp:Panel> 
+      </div>
+            <asp:ContentPlaceHolder ID="MainContent" runat="server"/>
+        </div>
+        <div align="center">
+        <asp:Label runat="server" ID="lblMasterPgCopyright" 
+                Text ="Bank Reconciliation | Copyright © 2017 by Conifer Health Solutions - LIVE Version" 
+                BackColor ="White" ForeColor="Black" Font-Names="Arial" Font-Size="Small" 
+                Font-Bold="True" />
+        </div>
+    </div>
+    <div class="footer">
+        
+    </div>
+    </form>
+</body>
+</html>

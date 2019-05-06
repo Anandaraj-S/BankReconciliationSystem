@@ -1,0 +1,3803 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BankReconciliation
+</name>
+</assembly>
+<members>
+<member name="F:Bank_Reconciliation.DataManagement.mvUserAdmin">
+	<summary>
+mvUserAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.Payer">
+	<summary>
+Payer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.lbllient">
+	<summary>
+lbllient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.ddlClient">
+	<summary>
+ddlClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.rbLockbox">
+	<summary>
+rbLockbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.rbEFT">
+	<summary>
+rbEFT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.rbCreditCard">
+	<summary>
+rbCreditCard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.rbBankdataother">
+	<summary>
+rbBankdataother control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.ChkSelectAll">
+	<summary>
+ChkSelectAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.lblVarianceOrBaicode">
+	<summary>
+lblVarianceOrBaicode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.txtBankDepositeDate">
+	<summary>
+txtBankDepositeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.txtBankDepositAmt">
+	<summary>
+txtBankDepositAmt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.txtCheckNo">
+	<summary>
+txtCheckNo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.txtVarianceOrBaiCode">
+	<summary>
+txtVarianceOrBaiCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.divfield">
+	<summary>
+divfield control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.grdDataMgmt">
+	<summary>
+grdDataMgmt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.lnkDMdelete">
+	<summary>
+lnkDMdelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.lblDataMgmt">
+	<summary>
+lblDataMgmt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.DataManagement.lnkDataMgmtReturn">
+	<summary>
+lnkDataMgmtReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.mvposteddatacorrection">
+	<summary>
+mvposteddatacorrection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.PostedDataLoad">
+	<summary>
+PostedDataLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lblPDCClient">
+	<summary>
+lblPDCClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.ddlPDCClient">
+	<summary>
+ddlPDCClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.rbPDCLockbox">
+	<summary>
+rbPDCLockbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.rbPDCEFT">
+	<summary>
+rbPDCEFT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.rbPDCCreditCard">
+	<summary>
+rbPDCCreditCard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.rbPDCOther">
+	<summary>
+rbPDCOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.postedData_Div">
+	<summary>
+postedData_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.chkPDCGridSelectAll">
+	<summary>
+chkPDCGridSelectAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lblPDCType">
+	<summary>
+lblPDCType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lblPDCCurrentType">
+	<summary>
+lblPDCCurrentType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchBatchId">
+	<summary>
+txtPDCsearchBatchId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchInvoice">
+	<summary>
+txtPDCsearchInvoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchCheck">
+	<summary>
+txtPDCsearchCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchClosingDt">
+	<summary>
+txtPDCsearchClosingDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchDepositDate">
+	<summary>
+txtPDCsearchDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCSearchCreateDate">
+	<summary>
+txtPDCSearchCreateDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCsearchDesignation">
+	<summary>
+txtPDCsearchDesignation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCSearchType">
+	<summary>
+txtPDCSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.TxtPDCsearchPayamt">
+	<summary>
+TxtPDCsearchPayamt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCSearchPayCode">
+	<summary>
+txtPDCSearchPayCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCSearchcomment">
+	<summary>
+txtPDCSearchcomment control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.txtPDCSearchPosteddt">
+	<summary>
+txtPDCSearchPosteddt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.div_PDCLoad">
+	<summary>
+div_PDCLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.grdPostedDataCorrectionLoad">
+	<summary>
+grdPostedDataCorrectionLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lnkPDCPush">
+	<summary>
+lnkPDCPush control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lnkPDCdelete">
+	<summary>
+lnkPDCdelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.lnkPDCReturn">
+	<summary>
+lnkPDCReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.hfPDCDeleteCount">
+	<summary>
+hfPDCDeleteCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataCorrection.hfPDCPushCount">
+	<summary>
+hfPDCPushCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lnkWQQueueTotals">
+	<summary>
+lnkWQQueueTotals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lnkWQSelectedQueue">
+	<summary>
+lnkWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lnkWorkQueue">
+	<summary>
+lnkWorkQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lblWQClient">
+	<summary>
+lblWQClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lblWQSelectedQueue">
+	<summary>
+lblWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lbluserID">
+	<summary>
+lbluserID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lblMandatory">
+	<summary>
+lblMandatory control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.ddlAccountName">
+	<summary>
+ddlAccountName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.txtAccountNumber">
+	<summary>
+txtAccountNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.TxtAmount">
+	<summary>
+TxtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.ddlBaicode">
+	<summary>
+ddlBaicode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.txtBankId">
+	<summary>
+txtBankId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.txtCheckNumber">
+	<summary>
+txtCheckNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.ddlPayer">
+	<summary>
+ddlPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.txtDepositdate">
+	<summary>
+txtDepositdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.txtText">
+	<summary>
+txtText control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.TxtType">
+	<summary>
+TxtType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.lblErrorMessgae">
+	<summary>
+lblErrorMessgae control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankDataInsert.btnSave">
+	<summary>
+btnSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.hidSourceID">
+	<summary>
+hidSourceID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.SearchBankData">
+	<summary>
+SearchBankData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.SearchPostedData">
+	<summary>
+SearchPostedData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.batch_number">
+	<summary>
+batch_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.invoice_number">
+	<summary>
+invoice_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.PostedDataDataType">
+	<summary>
+PostedDataDataType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.BankDepositDate">
+	<summary>
+BankDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.bank_data_client_number">
+	<summary>
+bank_data_client_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.bankdata_depositdate">
+	<summary>
+bankdata_depositdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.BankDataDataType">
+	<summary>
+BankDataDataType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.bank_check_no">
+	<summary>
+bank_check_no control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.searchDataError">
+	<summary>
+searchDataError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.SearchData">
+	<summary>
+SearchData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.search_data_grid">
+	<summary>
+search_data_grid control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.search_data">
+	<summary>
+search_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.searchDataResults">
+	<summary>
+searchDataResults control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.lnkAddUser">
+	<summary>
+lnkAddUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SearchData.lnkUserReturn">
+	<summary>
+lnkUserReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.lnkQueueTotals">
+	<summary>
+lnkQueueTotals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.lblClientName">
+	<summary>
+lblClientName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.lblSelectedVariance">
+	<summary>
+lblSelectedVariance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.mnuVariances">
+	<summary>
+mnuVariances control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.VarianceHeading">
+	<summary>
+VarianceHeading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.Vari">
+	<summary>
+Vari control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.BaiCode">
+	<summary>
+BaiCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.Noofdays">
+	<summary>
+Noofdays control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.UpdateUser">
+	<summary>
+UpdateUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.PayerName">
+	<summary>
+PayerName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.BankRecordID">
+	<summary>
+BankRecordID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.PostHeaderID">
+	<summary>
+PostHeaderID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Variance.grdVariance">
+	<summary>
+grdVariance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.lblcuruser">
+	<summary>
+lblcuruser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.lnkUserAdmin">
+	<summary>
+lnkUserAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.lnkITAdmin">
+	<summary>
+lnkITAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.searchData">
+	<summary>
+searchData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation._Default.grdSummary">
+	<summary>
+grdSummary control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Login.RegisterHyperLink">
+	<summary>
+RegisterHyperLink control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Login.LoginUser">
+	<summary>
+LoginUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.mvUserAdmin">
+	<summary>
+mvUserAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.select">
+	<summary>
+select control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.lblPayerClient">
+	<summary>
+lblPayerClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.ddlClient">
+	<summary>
+ddlClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.lnkOffCycleRefresh">
+	<summary>
+lnkOffCycleRefresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.ApplicationManagement.lnkExit">
+	<summary>
+lnkExit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.lnkWQQueueTotals">
+	<summary>
+lnkWQQueueTotals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.lnkWQSelectedQueue">
+	<summary>
+lnkWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.lblWQClient">
+	<summary>
+lblWQClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.lblWQSelectedQueue">
+	<summary>
+lblWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.lblSelectedDate">
+	<summary>
+lblSelectedDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.rbAll">
+	<summary>
+rbAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.rbEFT">
+	<summary>
+rbEFT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.rbLockbox">
+	<summary>
+rbLockbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.rbCreditCard">
+	<summary>
+rbCreditCard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.rbOther">
+	<summary>
+rbOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.Heading">
+	<summary>
+Heading control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.txtDepositDate">
+	<summary>
+txtDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.txtCheck">
+	<summary>
+txtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.txtAmount">
+	<summary>
+txtAmount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.txtType">
+	<summary>
+txtType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.BankMatched.grdBankMatched">
+	<summary>
+grdBankMatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkWQQueueTotals">
+	<summary>
+lnkWQQueueTotals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkWQSelectedQueue">
+	<summary>
+lnkWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblWQClient">
+	<summary>
+lblWQClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblWQSelectedQueue">
+	<summary>
+lblWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblSelectedDate">
+	<summary>
+lblSelectedDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Div4">
+	<summary>
+Div4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.grdBank">
+	<summary>
+grdBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblBankRecordCount">
+	<summary>
+lblBankRecordCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtHolddaysno">
+	<summary>
+txtHolddaysno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtHoldComments">
+	<summary>
+TxtHoldComments control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Lnkhold">
+	<summary>
+Lnkhold control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Div3">
+	<summary>
+Div3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.grdPostedHeader">
+	<summary>
+grdPostedHeader control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblPostDateCount">
+	<summary>
+lblPostDateCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkNewBank">
+	<summary>
+lnkNewBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkNewPosted">
+	<summary>
+lnkNewPosted control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblPartiallymatched">
+	<summary>
+lblPartiallymatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.btnMatchClear">
+	<summary>
+btnMatchClear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Mat_Sea_Div">
+	<summary>
+Mat_Sea_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.MatNum">
+	<summary>
+MatNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtmatsearchNumber">
+	<summary>
+txtmatsearchNumber control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtmatsearchBatchId">
+	<summary>
+txtmatsearchBatchId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtmatsearchInvoice">
+	<summary>
+txtmatsearchInvoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatsearchCheck">
+	<summary>
+txtMatsearchCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatsearchDepositDate">
+	<summary>
+txtMatsearchDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatsearchClosingDt">
+	<summary>
+txtMatsearchClosingDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatSearchCreateDt">
+	<summary>
+txtMatSearchCreateDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatsearchDesignation">
+	<summary>
+txtMatsearchDesignation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatSearchType">
+	<summary>
+txtMatSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtMatsearchPayamt">
+	<summary>
+TxtMatsearchPayamt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatSearchPayCode">
+	<summary>
+txtMatSearchPayCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.txtMatSearchPosteddt">
+	<summary>
+txtMatSearchPosteddt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Mat_Div">
+	<summary>
+Mat_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.grdMatched">
+	<summary>
+grdMatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblMatchedCount">
+	<summary>
+lblMatchedCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblUnmatched">
+	<summary>
+lblUnmatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.btnUnmatchClear">
+	<summary>
+btnUnmatchClear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkRefresh">
+	<summary>
+lnkRefresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblCheck">
+	<summary>
+lblCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtCheck">
+	<summary>
+TxtCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblDepositDate">
+	<summary>
+lblDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtDepositDate">
+	<summary>
+TxtDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblType">
+	<summary>
+lblType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtType">
+	<summary>
+TxtType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.RegDepositeDate">
+	<summary>
+RegDepositeDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblSaveStatus">
+	<summary>
+lblSaveStatus control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.btnUpdateInfo">
+	<summary>
+btnUpdateInfo control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Unmat_Sea_Div">
+	<summary>
+Unmat_Sea_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.chkWQSelectAll">
+	<summary>
+chkWQSelectAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.UnMatNum">
+	<summary>
+UnMatNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnmatNum">
+	<summary>
+TxtSeaUnmatNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaBatchID">
+	<summary>
+TxtSeaBatchID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatInv">
+	<summary>
+TxtSeaUnMatInv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnmatChk">
+	<summary>
+TxtSeaUnmatChk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatBDD">
+	<summary>
+TxtSeaUnMatBDD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatCD">
+	<summary>
+TxtSeaUnMatCD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatCDt">
+	<summary>
+TxtSeaUnMatCDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatDes">
+	<summary>
+TxtSeaUnMatDes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatType">
+	<summary>
+TxtSeaUnMatType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatPayAmt">
+	<summary>
+TxtSeaUnMatPayAmt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatPayCode">
+	<summary>
+TxtSeaUnMatPayCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.TxtSeaUnMatPD">
+	<summary>
+TxtSeaUnMatPD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.Unmat_Div">
+	<summary>
+Unmat_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.grdUnmatched">
+	<summary>
+grdUnmatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lblUnmatchedcount">
+	<summary>
+lblUnmatchedcount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Work_Queue.lnkUpdate">
+	<summary>
+lnkUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.client_number">
+	<summary>
+client_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.batch_number">
+	<summary>
+batch_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.invoice_number">
+	<summary>
+invoice_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.payment_amount">
+	<summary>
+payment_amount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.pay_code">
+	<summary>
+pay_code control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.designation">
+	<summary>
+designation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionNew.Submit">
+	<summary>
+Submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.mvposteddatadeletion">
+	<summary>
+mvposteddatadeletion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.PostedDataDeletion">
+	<summary>
+PostedDataDeletion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.lblPDDClient">
+	<summary>
+lblPDDClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.ddlPDDClient">
+	<summary>
+ddlPDDClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.rbPDDLockbox">
+	<summary>
+rbPDDLockbox control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.rbPDDEFT">
+	<summary>
+rbPDDEFT control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.rbPDDCreditCard">
+	<summary>
+rbPDDCreditCard control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.rbPDDOther">
+	<summary>
+rbPDDOther control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.postedData_Div">
+	<summary>
+postedData_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.chkPDDGridSelectAll">
+	<summary>
+chkPDDGridSelectAll control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.lblType">
+	<summary>
+lblType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.lblPDDCurrentType">
+	<summary>
+lblPDDCurrentType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchBatchId">
+	<summary>
+txtPDDsearchBatchId control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchInvoice">
+	<summary>
+txtPDDsearchInvoice control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchCheck">
+	<summary>
+txtPDDsearchCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchClosingDt">
+	<summary>
+txtPDDsearchClosingDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchDepositDate">
+	<summary>
+txtPDDsearchDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDSearchCreateDate">
+	<summary>
+txtPDDSearchCreateDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDsearchDesignation">
+	<summary>
+txtPDDsearchDesignation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDSearchType">
+	<summary>
+txtPDDSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.TxtPDDsearchPayamt">
+	<summary>
+TxtPDDsearchPayamt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDSearchPayCode">
+	<summary>
+txtPDDSearchPayCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.txtPDDSearchPosteddt">
+	<summary>
+txtPDDSearchPosteddt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.div_PDDLoad">
+	<summary>
+div_PDDLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.grdPostedDataDeletionLoad">
+	<summary>
+grdPostedDataDeletionLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.lnkPDDdelete">
+	<summary>
+lnkPDDdelete control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.lnkPDDReturn">
+	<summary>
+lnkPDDReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataDeletion.hfCount">
+	<summary>
+hfCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.mvUserAdmin">
+	<summary>
+mvUserAdmin control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.select">
+	<summary>
+select control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkUser">
+	<summary>
+lnkUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkPayor">
+	<summary>
+lnkPayor control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkPayerXmap">
+	<summary>
+lnkPayerXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkAppMgnt">
+	<summary>
+lnkAppMgnt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkDataMgnt">
+	<summary>
+lnkDataMgnt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkPostedDataDeletion">
+	<summary>
+LinkPostedDataDeletion control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkPostedDataCorrection">
+	<summary>
+LinkPostedDataCorrection control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkPostedDataAddition">
+	<summary>
+LinkPostedDataAddition control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkPostedTrial">
+	<summary>
+LinkPostedTrial control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.PostedDataAdditionNew">
+	<summary>
+PostedDataAdditionNew control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkExit">
+	<summary>
+lnkExit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.users">
+	<summary>
+users control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label10">
+	<summary>
+Label10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Div1">
+	<summary>
+Div1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdUsers">
+	<summary>
+grdUsers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkAddUser">
+	<summary>
+lnkAddUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkUserReturn">
+	<summary>
+lnkUserReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.EditUser">
+	<summary>
+EditUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblUser">
+	<summary>
+lblUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtHiddenRowID">
+	<summary>
+txtHiddenRowID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtUserID">
+	<summary>
+txtUserID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlSecurity">
+	<summary>
+ddlSecurity control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtFirst">
+	<summary>
+txtFirst control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtLast">
+	<summary>
+txtLast control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblDataValidation">
+	<summary>
+lblDataValidation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelUser">
+	<summary>
+lnkCancelUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkSaveUser">
+	<summary>
+lnkSaveUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblSecLevels">
+	<summary>
+lblSecLevels control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdRoles">
+	<summary>
+grdRoles control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Payer">
+	<summary>
+Payer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblPayerClient">
+	<summary>
+lblPayerClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlPayerClient">
+	<summary>
+ddlPayerClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.editfields">
+	<summary>
+editfields control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdPayers">
+	<summary>
+grdPayers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkAddPayer">
+	<summary>
+lnkAddPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkPayerReturn">
+	<summary>
+lnkPayerReturn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.AddPayer">
+	<summary>
+AddPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblPayer">
+	<summary>
+lblPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtHiddenKey">
+	<summary>
+txtHiddenKey control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtPayer">
+	<summary>
+txtPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label12">
+	<summary>
+Label12 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtDescription">
+	<summary>
+txtDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblPayerDataValidation">
+	<summary>
+lblPayerDataValidation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelPayer">
+	<summary>
+lnkCancelPayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkSavePayer">
+	<summary>
+lnkSavePayer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkUpdate">
+	<summary>
+lnkUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.SelXmap">
+	<summary>
+SelXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label14">
+	<summary>
+Label14 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label11">
+	<summary>
+Label11 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlClient">
+	<summary>
+ddlClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label13">
+	<summary>
+Label13 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlType">
+	<summary>
+ddlType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblCriteriaError">
+	<summary>
+lblCriteriaError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelCrossmap">
+	<summary>
+lnkCancelCrossmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkButton1">
+	<summary>
+LinkButton1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Payerxmap">
+	<summary>
+Payerxmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblClient">
+	<summary>
+lblClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblType">
+	<summary>
+lblType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Div2">
+	<summary>
+Div2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdXmap">
+	<summary>
+grdXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkAddEntries">
+	<summary>
+lnkAddEntries control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkButton2">
+	<summary>
+LinkButton2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.EditDeleteMapping">
+	<summary>
+EditDeleteMapping control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblEditDelMap">
+	<summary>
+lblEditDelMap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtHiddenXmapID">
+	<summary>
+txtHiddenXmapID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label15">
+	<summary>
+Label15 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtSource">
+	<summary>
+txtSource control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label16">
+	<summary>
+Label16 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlSystem">
+	<summary>
+ddlSystem control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblXmapVerification">
+	<summary>
+lblXmapVerification control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelXmap">
+	<summary>
+lnkCancelXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkSaveXmap">
+	<summary>
+lnkSaveXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.AddXmap">
+	<summary>
+AddXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label17">
+	<summary>
+Label17 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblClientAdd">
+	<summary>
+lblClientAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblClientTypeAdd">
+	<summary>
+lblClientTypeAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label18">
+	<summary>
+Label18 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.FileUpload1">
+	<summary>
+FileUpload1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblFileType">
+	<summary>
+lblFileType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.cmdImport">
+	<summary>
+cmdImport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.div10">
+	<summary>
+div10 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Div3">
+	<summary>
+Div3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdAddXmap">
+	<summary>
+grdAddXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblAddError">
+	<summary>
+lblAddError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelAdd">
+	<summary>
+lnkCancelAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkSaveAdd">
+	<summary>
+lnkSaveAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.addbulk">
+	<summary>
+addbulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label19">
+	<summary>
+Label19 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblClientAddBulk">
+	<summary>
+lblClientAddBulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblClientTypeAddBulk">
+	<summary>
+lblClientTypeAddBulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Div4">
+	<summary>
+Div4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdAddBulk">
+	<summary>
+grdAddBulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblBulkError">
+	<summary>
+lblBulkError control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelBulk">
+	<summary>
+lnkCancelBulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkSaveBulk">
+	<summary>
+lnkSaveBulk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.PayerRemap">
+	<summary>
+PayerRemap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label20">
+	<summary>
+Label20 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.txtRemapHiddenKey">
+	<summary>
+txtRemapHiddenKey control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblRemapMessage">
+	<summary>
+lblRemapMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label21">
+	<summary>
+Label21 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.Label22">
+	<summary>
+Label22 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.ddlRemapPayers">
+	<summary>
+ddlRemapPayers control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblXmap">
+	<summary>
+lblXmap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.grdXmapToReplace">
+	<summary>
+grdXmapToReplace control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lblRemapFailure">
+	<summary>
+lblRemapFailure control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.lnkCancelRemap">
+	<summary>
+lnkCancelRemap control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.UserAdmin.LinkButton3">
+	<summary>
+LinkButton3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Register.RegisterUser">
+	<summary>
+RegisterUser control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Register.RegisterUserWizardStep">
+	<summary>
+RegisterUserWizardStep control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Maintenance.SMTimer">
+	<summary>
+SMTimer control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Maintenance.Timerrefresh">
+	<summary>
+Timerrefresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Maintenance.lblmessage">
+	<summary>
+lblmessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label1">
+	<summary>
+Label1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.client_number">
+	<summary>
+client_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label2">
+	<summary>
+Label2 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.batch_number">
+	<summary>
+batch_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label3">
+	<summary>
+Label3 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label4">
+	<summary>
+Label4 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.invoice_number">
+	<summary>
+invoice_number control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.payment_amount">
+	<summary>
+payment_amount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label7">
+	<summary>
+Label7 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.pay_code">
+	<summary>
+pay_code control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label8">
+	<summary>
+Label8 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.designation">
+	<summary>
+designation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Label9">
+	<summary>
+Label9 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Bulk_Upload">
+	<summary>
+Bulk_Upload control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.btnImport">
+	<summary>
+btnImport control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.fileuploadExcel">
+	<summary>
+fileuploadExcel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.add_another_data">
+	<summary>
+add_another_data control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.PostedDataAdditionTrial.Submit">
+	<summary>
+Submit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.PlMaintenance">
+	<summary>
+PlMaintenance control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.lblLoadName">
+	<summary>
+lblLoadName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.spanLoad">
+	<summary>
+spanLoad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.spansecondsIdle">
+	<summary>
+spansecondsIdle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.spanSave">
+	<summary>
+spanSave control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.Site.lblMasterPgCopyright">
+	<summary>
+lblMasterPgCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lnkWQQueueTotals">
+	<summary>
+lnkWQQueueTotals control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lnkWQSelectedQueue">
+	<summary>
+lnkWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblWQClient">
+	<summary>
+lblWQClient control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Label5">
+	<summary>
+Label5 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblWQSelectedQueue">
+	<summary>
+lblWQSelectedQueue control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Label6">
+	<summary>
+Label6 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblSelectedDate">
+	<summary>
+lblSelectedDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lnkNewBank">
+	<summary>
+lnkNewBank control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblPartiallymatched">
+	<summary>
+lblPartiallymatched control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Mat_Sea_Div">
+	<summary>
+Mat_Sea_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.MatNum">
+	<summary>
+MatNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.mckh">
+	<summary>
+mckh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.txtBankDataSearchCheck">
+	<summary>
+txtBankDataSearchCheck control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.txtBankDataSearchDepositDate">
+	<summary>
+txtBankDataSearchDepositDate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.txtBankDataSearchType">
+	<summary>
+txtBankDataSearchType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtBankDataSearchPayamt">
+	<summary>
+TxtBankDataSearchPayamt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Mat_Div">
+	<summary>
+Mat_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.grdBankData">
+	<summary>
+grdBankData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblBankDataCount">
+	<summary>
+lblBankDataCount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblPostedData">
+	<summary>
+lblPostedData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lnkRefresh">
+	<summary>
+lnkRefresh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.ScriptManager1">
+	<summary>
+ScriptManager1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Unmat_Sea_Div">
+	<summary>
+Unmat_Sea_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.PostedDataNum">
+	<summary>
+PostedDataNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.ckh">
+	<summary>
+ckh control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataNum">
+	<summary>
+TxtPostedDataNum control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataBatchID">
+	<summary>
+TxtPostedDataBatchID control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataInv">
+	<summary>
+TxtPostedDataInv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataChk">
+	<summary>
+TxtPostedDataChk control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataBDD">
+	<summary>
+TxtPostedDataBDD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataCD">
+	<summary>
+TxtPostedDataCD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataCDt">
+	<summary>
+TxtPostedDataCDt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataDes">
+	<summary>
+TxtPostedDataDes control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataType">
+	<summary>
+TxtPostedDataType control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDaTaPayAmt">
+	<summary>
+TxtPostedDaTaPayAmt control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataPayCode">
+	<summary>
+TxtPostedDataPayCode control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.TxtPostedDataPD">
+	<summary>
+TxtPostedDataPD control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.Unmat_Div">
+	<summary>
+Unmat_Div control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.UpdatePanel1">
+	<summary>
+UpdatePanel1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.grdPostedData">
+	<summary>
+grdPostedData control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lblPostedDatacount">
+	<summary>
+lblPostedDatacount control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.WorkQueueOther.lnkUpdate">
+	<summary>
+lnkUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:Bank_Reconciliation.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:Bank_Reconciliation.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Bank_Reconciliation._Default.SQLcon">
+	<summary>
+ SQL Connection
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Bank_Reconciliation._Default.Sec">
+	<summary>
+ Identifies current environment, PRODUCTION or TEST
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Bank_Reconciliation._Default.Security">
+	<summary>
+ Get the Username and the Security for the user.  Sets up security on this screen.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:Bank_Reconciliation.SiteLong.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SiteLong.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SiteLong.Form1">
+	<summary>
+Form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SiteLong.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:Bank_Reconciliation.SiteLong.lblMasterPgCopyright">
+	<summary>
+lblMasterPgCopyright control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
